@@ -350,7 +350,6 @@ Pillow>=9.5.0
 This project follows the licenses of its dependencies:
 - SDXL: CreativeML Open RAIL++-M License.
 - Dataset: Check `lambdalabs/naruto-blip-captions` license.
-- Code: MIT License (or specify your choice).
 
 ---
 
